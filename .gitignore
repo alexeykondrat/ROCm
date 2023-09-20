@@ -13,7 +13,6 @@ _doxygen/
 _readthedocs/
 
 # avoid duplicating contributing.md due to conf.py
-CHANGELOG.md
+docs/CHANGELOG.md
 docs/contributing.md
-docs/release.md
 docs/about/release-notes.md
